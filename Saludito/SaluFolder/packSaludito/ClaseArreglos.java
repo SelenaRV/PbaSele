@@ -2,6 +2,6 @@ package packSaludito;
 
 public class ClaseArreglos {
 	public void name() {
-		int ff[] = new int[20];
+		long datosVector[] = new long[50];
 	}
 }
